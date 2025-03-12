@@ -1,4 +1,4 @@
-package org.example.remoting.serialize.kryo;
+package org.example.serialize.kryo;
 
 import com.esotericsoftware.kryo.Kryo;
 import com.esotericsoftware.kryo.io.Input;
@@ -6,7 +6,7 @@ import com.esotericsoftware.kryo.io.Output;
 import lombok.extern.slf4j.Slf4j;
 import org.example.remoting.dto.RpcRequest;
 import org.example.remoting.dto.RpcResponse;
-import org.example.remoting.serialize.Serializer;
+import org.example.serialize.Serializer;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;

@@ -1,4 +1,4 @@
-package org.example.remoting.serialize;
+package org.example.serialize;
 
 import org.example.extension.SPI;
 

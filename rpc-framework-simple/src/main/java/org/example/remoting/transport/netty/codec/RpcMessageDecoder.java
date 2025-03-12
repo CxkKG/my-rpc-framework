@@ -12,7 +12,7 @@ import org.example.remoting.constants.RpcConstants;
 import org.example.remoting.dto.RpcMessage;
 import org.example.remoting.dto.RpcRequest;
 import org.example.remoting.dto.RpcResponse;
-import org.example.remoting.serialize.Serializer;
+import org.example.serialize.Serializer;
 
 import java.util.Arrays;
 

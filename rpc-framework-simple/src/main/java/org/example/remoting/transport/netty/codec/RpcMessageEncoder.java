@@ -10,7 +10,7 @@ import org.example.enums.SerializationTypeEnum;
 import org.example.extension.ExtensionLoader;
 import org.example.remoting.constants.RpcConstants;
 import org.example.remoting.dto.RpcMessage;
-import org.example.remoting.serialize.Serializer;
+import org.example.serialize.Serializer;
 
 import java.util.concurrent.atomic.AtomicInteger;
 

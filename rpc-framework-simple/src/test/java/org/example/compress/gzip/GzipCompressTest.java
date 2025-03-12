@@ -2,7 +2,7 @@ package org.example.compress.gzip;
 
 import org.example.compress.Compress;
 import org.example.remoting.dto.RpcRequest;
-import org.example.remoting.serialize.kryo.KryoSerializer;
+import org.example.serialize.kryo.KryoSerializer;
 import org.junit.jupiter.api.Test;
 
 import java.util.UUID;

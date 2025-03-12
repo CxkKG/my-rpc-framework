@@ -1,7 +1,6 @@
 package org.example.serialize.kryo;
 
 import org.example.remoting.dto.RpcRequest;
-import org.example.remoting.serialize.kryo.KryoSerializer;
 import org.junit.jupiter.api.Test;
 
 import java.util.UUID;

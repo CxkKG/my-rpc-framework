@@ -1,1 +1,1 @@
-kyro=org.example.serialize.kyro.KryoSerializer
+kryo=org.example.serialize.kryo.KryoSerializer

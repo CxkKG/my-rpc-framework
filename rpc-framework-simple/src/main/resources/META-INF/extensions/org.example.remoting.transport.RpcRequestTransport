@@ -1,1 +1,1 @@
-netty=client.org.example.remoting.transport.NettyRpcClient
+netty=org.example.remoting.transport.netty.client.NettyRpcClient
